@@ -9,7 +9,7 @@ Olá eu sou  Antonio Ribeiro
 -Churrasco
 -Programação
 
-## Atualenmte estudando
+## Atualmente estudando
 
 -Git for Distirbuted Development
 -Git Hub
